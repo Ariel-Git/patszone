@@ -23,13 +23,13 @@
 define('DB_NAME', 'patszone');
 
 /** MySQL database username */
-define('DB_USER', 'patszone1');
+define('DB_USER', 'patszone');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'li7q4ch624735ch');
+define('DB_PASSWORD', 'Lf13?_gbq4sZ');
 
 /** MySQL hostname */
-define('DB_HOST', 'db4free.net');
+define('DB_HOST', 'den1.mysql1.gear.host');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
